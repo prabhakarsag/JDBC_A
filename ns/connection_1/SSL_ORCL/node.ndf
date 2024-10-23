@@ -3,7 +3,7 @@
 <Values version="2.0">
   <value name="node_type">ConnectionData</value>
   <value name="node_subtype">unknown</value>
-  <value name="node_nsName">connection:SSL_ORCL</value>
+  <value name="node_nsName">connection_1:SSL_ORCL</value>
   <value name="node_pkg">JDBC_A</value>
   <value name="is_public">false</value>
   <number name="IRTNODE_VERSION" type="Integer">2</number>
